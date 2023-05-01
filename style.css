@@ -3,16 +3,3 @@ font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Tilt Prism', cursive;
 font-family: 'Ubuntu', sans-serif; */
-
-body{
-    background-color: bisque;
-}
-h1{
-    color: brown;
-    font-family: 'Poppins', sans-serif;
-}
-p{
-    font-size: 30px;
-    color: brown;
-    font-family: 'Playfair Display', serif; 
-}
